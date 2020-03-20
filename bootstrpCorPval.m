@@ -1,3 +1,7 @@
+%----- Zahra Sadeghi--------------------------
+%----- University of Tehran-------------------
+%----- zahra.sadeghi@ut.ac.ir-----------------
+
 function [withAn_base,betAn_base,withNonAn_base,withAn,betAn,withNonAn]=bootstrpCorPval(sqCosD,fi,ss)
 % selecting different random samples with replacement from cor matrix
 tmp=sqCosD(fi,:);
