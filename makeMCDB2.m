@@ -1,3 +1,7 @@
+%----- Zahra Sadeghi--------------------------
+%----- University of Tehran-------------------
+%----- zahra.sadeghi@ut.ac.ir-----------------
+
 clear all
 load('McRaeVisFeat','McRaeVisFeat');
 load('conceptNm','conceptNm');
