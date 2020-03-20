@@ -1,4 +1,6 @@
-
+%----- Zahra Sadeghi--------------------------
+%----- University of Tehran-------------------
+%----- zahra.sadeghi@ut.ac.ir-----------------
 
 load('stim','nS');
 batchsize=89;
