@@ -1,3 +1,7 @@
+%----- Zahra Sadeghi--------------------------
+%----- University of Tehran-------------------
+%----- zahra.sadeghi@ut.ac.ir-----------------
+
 %--do t-test and measure the difference between correlations at each level
 %of hierarchy
 
