@@ -1,3 +1,7 @@
+%----- Zahra Sadeghi--------------------------
+%----- University of Tehran-------------------
+%----- zahra.sadeghi@ut.ac.ir-----------------
+
 function mainRunLayers(layerunits)
 % clear all
 nlayers=length(layerunits);
